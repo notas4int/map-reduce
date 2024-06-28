@@ -1,0 +1,13 @@
+id,brand,name,type,price
+1,lenovo,nuke,notebook,60000
+2,asus,rog 909,keyboard,5000
+3,lenovo,vegas,notebook,80000
+4,acer,closebook,notebook,40000
+5,anker,h43jhg,headphones,6000
+6,jbl,superbass,portable_speaker,10000
+7,hp,ar403,notebook,50000
+8,sony,dualsense,gamepad,7000
+9,logitech,g304,mouse,4000
+10,audio-technica,at40mx,headphones,6000
+11,sony,dualshock,gamepad,4000
+12,audient,id4,sound_card,15000
